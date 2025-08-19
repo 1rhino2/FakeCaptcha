@@ -26,6 +26,10 @@ Use cases include (but are not limited to):
 
 ---
 
+## Warning
+- This is **NOT** production grade, it will be shut down on the spot.
+- Most of payload logic is client side replace with serverside
+
 ##  Quick Start
 
 1. **Clone the repo:**
