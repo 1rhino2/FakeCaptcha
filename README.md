@@ -17,6 +17,10 @@ Use cases include (but are not limited to):
 
 ---
 
+## Preview
+
+<img src="./Image.png" alt="Image.png" style="max-width:100%;border-radius:8px;">
+
 ##  Features
 
 - **Very-Realistic UI:** Mimics legitimate CAPTCHA flows.
